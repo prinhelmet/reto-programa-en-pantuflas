@@ -18,13 +18,17 @@
 
 *   Encender el ordenador para algo que no sea trabajar.
 
-*   Hacer un fork del proyecto propuesto y entrar en el maravilloso mundo del desarrollo competitivo XD.
+*   Hacer un fork del proyecto propuesto y entrar en el maravilloso mundo del desarrollo competitivo (En Pantunflas, por supuesto XD).
 
 
 
 **Próximos hitos**
 
-*   Continuar consiguiendo hitos
+*   Terminar de ver el curso "Aprende VUE desaprendiendo jQuery"
+*   Instalar/configurar multi-idioma en proyecto WP.
+*   Carga/Alta de usuarios existentes en proyecto Joomla! a WP.
+*   Pasar a producción proyecto web migrado de Joomla! a WP.
+*   Crear mi página de perfil en GitHub asociada a mi nuevo dominio.
 
 
 ## **Badges**
