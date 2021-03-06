@@ -52,7 +52,13 @@
 
 
 ## **Badges**
-
-A la espera de que se generen las primeras insignias. ¡Qué ilusión!
+<div class="badges">
+  <div style="float:left" class="badge">
+    <img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-pantufla1.png" width="150px">
+  </div>
+  <div style="float:left" class="badge">
+    <img src="https://raw.githubusercontent.com/delineas/reto-programa-en-pantuflas/main/badges/programaenpantuflas-chanclahappy3.png" width="150px">
+  </div>
+</div>
 
 \[WIP\]
