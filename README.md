@@ -22,9 +22,19 @@
 
 
 
-**Próximos hitos**
+**Fecha**: 30/01/2021
+
+**Humor**: 😀
+
+**Hitos conseguidos**:
 
 *   Terminar de ver el curso "Aprende VUE desaprendiendo jQuery"
+
+*   Ver el desfío de Python de la zona premium
+
+
+**Próximos hitos**
+
 *   Instalar/configurar multi-idioma en proyecto WP.
 *   Carga/Alta de usuarios existentes en proyecto Joomla! a WP.
 *   Pasar a producción proyecto web migrado de Joomla! a WP.
